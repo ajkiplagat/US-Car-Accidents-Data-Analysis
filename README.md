@@ -2,7 +2,7 @@
 This project is an analysis of US car accidents data from 2016-2020
 - Data Description: Data used is from Kaggle and is of car accident data collected from February 2016 to June 2020 using two APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within road-networks. There are about 3.5 million accident records in the dataset, covering 49 States of the USA.
 
-## About the Data
+## About the Data:
 - Data Source: https://www.kaggle.com/sobhanmoosavi/us-accidents
 - Data shape: 3,513,617 rows and 49 variables. Rows are records for a single accident.
 - Target Variable for classification is Severity. The variable indicates severity of an accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay).
@@ -20,7 +20,7 @@ This project is an analysis of US car accidents data from 2016-2020
 - pickle
 - sklearn
 
-## Licensing and 
+## Licensing:
 - The car accident dataset was distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0) 
 
 ## Citations and Acknowledgements:

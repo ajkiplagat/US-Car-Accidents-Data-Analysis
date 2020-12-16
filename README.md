@@ -12,7 +12,7 @@ This project is an analysis of US car accidents data from 2016-2020
 - Link to Medium Blog Post: https://medium.com/@kiplagatannette/insights-from-u-s-car-accident-data-c3c78d42d8df
 
 ## File and Library Dependencies:
-- Anaconda and Jupyter Notebook were used for analysis along with the following libraries:
+- Anaconda and Jupyter Notebook were used for analysis along with the following Python Libraries:
 - pandas
 - numpy
 - seaborn
